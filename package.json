@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "Ajeet Singh",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
 }
