@@ -1,0 +1,13 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon "
+  },
+  "keywords": [],
+  "author": "Ajeet Singh",
+  "license": "ISC",
+  "type": "module"
+}
